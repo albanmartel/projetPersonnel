@@ -3,8 +3,10 @@
 
 ## Les tutoriels :
 
-[Utiliser le Freebox comme NAS](https://github.com/albanmartel/projetPersonnel/wiki/Home/#utiliser-la-freebox-delta-comme-nas)
+1. [Utiliser le Freebox comme NAS](https://github.com/albanmartel/projetPersonnel/wiki/Home/#utiliser-la-freebox-delta-comme-nas)
 
-## Suivre l'avancement du projet
 
-[Avancement du projet](https://github.com/users/albanmartel/projects/3)
+
+## L'avancement du projet :
+
+### [Tableau de bord du projet](https://github.com/users/albanmartel/projects/3)
